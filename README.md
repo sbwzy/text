@@ -6,3 +6,5 @@
 二次测试 2020.04.24
 
 manjaro 2020.05.22
+
+windows terminal 2020.06.07
